@@ -7,6 +7,7 @@ namespace basicCsharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("git");
             Console.WriteLine("       /|");
             Console.WriteLine("      / |");
             Console.WriteLine("     /  |");
